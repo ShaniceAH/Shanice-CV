@@ -1,0 +1,61 @@
+
+/*Columns*/
+.maindiv{
+    
+    font-weight:bold ;}
+
+.float_left{
+    float:left;}
+
+.float_right{
+    float:right;}
+
+    .maindive{
+        width:1000px;height:auto;
+        font-weight:bold ;}
+    
+    .float-left{
+        float:left}
+    
+    .float-right{
+        float:right;
+    }
+
+.body{
+    background-color: blue;
+}
+
+/*Table*/
+
+table {
+    padding: 10px;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+    color: white;
+    border-radius: 5px;
+    }
+
+    td, th {
+        border: none;
+        padding: 20px;
+        font-size: xx-large;
+    }
+
+.sub{
+        border: none;
+        padding: 5px;
+        font-size: medium;
+    }
+
+    /*Line*/
+    hr {
+        height:5px;
+        border-width:0;
+        background-color:rgb(0, 0, 0);
+        color: black;
+    }
+
+    .col{
+        
+    }
